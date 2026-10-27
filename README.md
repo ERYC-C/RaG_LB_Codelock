@@ -8,6 +8,10 @@
 
 此Mod部分内容使用AI生成，介意请勿使用。
 
+> 你需要将
+> Profiles\RaG_Core\Configs\RaG_Core\DigitalCodeLock.json 
+> "EnableRaGDigitalCodeLock":设置为0
+
 ## 兼容性
 
 | 项目         | 说明                                                       |
